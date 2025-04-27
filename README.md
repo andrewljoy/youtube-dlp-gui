@@ -10,8 +10,6 @@ This is a QT based GUI for the youtube-dlp command-line tool, designed to simpli
 - Input field for YouTube URLs
 - Dropdowns for selecting video quality, audio quality, and subtitle languages
 - Checkbox to enable SponsorBlock for removing sponsor segments
-- Warnings for downloading playlists and channels to prevent unintentional large downloads
-- Progress display to monitor download status
 - Default save path set to Videos, Downloads, or home directory
 
 ## Requirements
